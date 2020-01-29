@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ToDo.dir/main.cpp.o CMakeFiles/ToDo.dir/include/Lista.cpp.o  -o ToDo 
